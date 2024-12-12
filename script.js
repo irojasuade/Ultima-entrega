@@ -178,7 +178,7 @@ const playersInfo = {
       video: "https://www.youtube.com/embed/o9BlILl5aoI?si=gzJ8fdKLfdd9fv3V"
     },
   };
-  // Agrega el resto de jugadores con sus respectivos videos aquí
+ 
 
 // Elementos del DOM
 const playerDetails = document.getElementById("player-details");
